@@ -1,7 +1,7 @@
 # HumanBehaviorVolatilityPredictor
-## Using Machine Learning models to predict the volatility of human behavior datasets.
+### Using Machine Learning models to predict the volatility of human behavior datasets.
 
-* Bullet list
+* How to run:
   * Nested bullet
 
 

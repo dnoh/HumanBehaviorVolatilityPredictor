@@ -13,6 +13,16 @@
   * Window Size is the size of the predicition Window
   * file is a file you choose that is saved in the data folder
   
+  
+Example Command:
+<code>
+ python3 driver.py
+ Arima
+ 0
+ 14
+ retail_sales.csv 
+</code>
+  
 This will return a csv file with the data predictions and the percent errors. 
 
 

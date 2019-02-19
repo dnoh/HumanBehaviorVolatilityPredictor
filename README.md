@@ -15,13 +15,11 @@
   
   
 Example Command:
-<code>
- python3 driver.py
- Arima
- 0
- 14
- retail_sales.csv 
-</code>
+<code> python3 driver.py </code>
+<code> Arima </code>
+<code> 0 </code>
+<code> 14 </code>
+<code> retail_sales.csv </code>
   
 This will return a csv file with the data predictions and the percent errors. 
 
